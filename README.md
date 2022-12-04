@@ -17,3 +17,23 @@ https://user-images.githubusercontent.com/102361407/205484830-9d13ec53-a3fb-4bea
 * This website helps to identify trending post . <br>
 * Just scroll through the beautiful design and you can upload your own 😁. <br>
 * Also get the collection of all of your posts in your profile. <br>
+
+## Technology used
+
+* Html
+* css
+* Javascript
+ 
+ ## Prerequisites
+ Before you begin, ensure you have met the following requirements:
+ 
+ * Git must be installed on your operating system.
+ 
+ ## Run Locally
+ 
+To run Blogy locally, run this command on your git bash:
+
+* git clone https://github.com/HarshithKumar03/Blog-Website.git
+
+## License
+ This project is free to use and does not contains any license.
