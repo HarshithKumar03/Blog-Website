@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 # Blogging-Website
-=======
-# Blooger_Website
-This is the complete blooger website create using html and css
->>>>>>> eabba93 (Blog website)
+-----------
+## [Live site](https://coruscating-fudge-002851.netlify.app/) <br>
+
+## ![]()
